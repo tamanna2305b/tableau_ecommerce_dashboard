@@ -1,6 +1,6 @@
 # tableau_ecommerce_dashboard
 # Interactive E-Commerce Sales Dashboard
-
+LINK to live interactive dashboard - https://public.tableau.com/views/E-Commercesalesdashboard_17820754519540/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ## Project Overview
 
 This project presents an interactive Tableau dashboard built using an e-commerce sales dataset. The dashboard provides insights into sales performance, customer behaviour, product categories, and geographical trends.
